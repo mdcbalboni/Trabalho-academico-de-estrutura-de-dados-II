@@ -1,0 +1,10 @@
+dado1
+1
+dado2
+2
+dado3
+3
+dado4
+4
+dado5
+5
